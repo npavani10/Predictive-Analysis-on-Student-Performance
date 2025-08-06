@@ -2,6 +2,7 @@
 
 # 📊 Data-Driven Insights into Student Achievement: A Predictive Modeling Approach
 **Contributors**: Pavani Narla, Saumya Joshi, Nishka Srikanth, Erica L. Williams
+**Project Year**: December 2024  
 
 ---
 
