@@ -1,6 +1,5 @@
 # Predictive-Analysis-on-Student-Performance
 
-````markdown
 # 📊 Data-Driven Insights into Student Achievement: A Predictive Modeling Approach
 **Contributors**: Saumya Joshi, Nishka Srikanth, Pavani Narala, Erica L. Williams
 
