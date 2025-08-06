@@ -1,7 +1,7 @@
 # Predictive-Analysis-on-Student-Performance
 
 # 📊 Data-Driven Insights into Student Achievement: A Predictive Modeling Approach
-**Contributors**: Saumya Joshi, Nishka Srikanth, Pavani Narala, Erica L. Williams
+**Contributors**: Pavani Narla, Saumya Joshi, Nishka Srikanth, Erica L. Williams
 
 ---
 
@@ -95,9 +95,8 @@ Used **K-Means Clustering** to identify 7 distinct student groups:
 This work is based on research from peer-reviewed journals and educational data mining studies. A complete bibliography is available in the project report.
 
 
-## 📬 Contact
+## 💬 Contact
 
+For questions or contributions:
+- 🧑‍💻 Open an [Issue](https://github.com/npavani10/Predictive-Analysis-on-Student-Performance/issues) for feedback or suggestions
 
-
-Let me know if you'd like this content as a downloadable `.md` file or want to publish it to your GitHub repository — I can help format or upload it.
-```
