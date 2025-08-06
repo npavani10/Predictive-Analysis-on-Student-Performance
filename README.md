@@ -22,7 +22,7 @@ This project applies machine learning to predict student performance based on fa
 
 ## 🗃️ Dataset
 
-- **Source**: Kaggle (modified and cleaned for research)
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/muhammadroshaanriaz/students-performance-dataset-cleaned)
 - **Size**: 1,000 student records
 - **Key Features**:
   - Gender
